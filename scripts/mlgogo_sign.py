@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # name: mlgogo_sign
+# cron: 35 19 * * *
 """马历/马历赛事小程序每日积分签到，支持 YYB Go 多账号。
 
 青龙变量：

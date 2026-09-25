@@ -1,6 +1,7 @@
 ﻿#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # name: qq音乐_code版
+# cron: 17 17 * * *
 
 """
 QQ音乐签到 code 版

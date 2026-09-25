@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # name: pp停车任务_cod
+# cron: 30 11 * * *
 
 """
 PP停车动态 code 版

@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # name: 心相印_code版
+# cron: 49 10 * * *
 # 兼容 GBK 终端：强制 stdout/stderr 使用 UTF-8（不影响排版与格式）
 import sys as _sys
 try:

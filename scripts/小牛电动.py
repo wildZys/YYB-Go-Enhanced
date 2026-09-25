@@ -1,6 +1,7 @@
 ﻿#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # name: 小牛电动
+# cron: 13 9 * * *
 
 """
 小牛电动小程序动态 code 版

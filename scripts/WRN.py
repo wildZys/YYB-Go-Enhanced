@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # name: 薇诺娜专柜商城
+# cron: 6 22 * * *
 
 """
 薇诺娜专柜商城小程序签到脚本（YYB Go版）

@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # name: 比亚迪海洋签到
+# cron: 56 15 * * *
 
 """
 比亚迪海洋小程序签到脚本（code 版）

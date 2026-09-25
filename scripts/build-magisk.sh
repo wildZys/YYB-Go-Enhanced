@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 # name: build-magisk
+# cron: 20 12 * * *
 set -euo pipefail
 
 ROOT=$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)

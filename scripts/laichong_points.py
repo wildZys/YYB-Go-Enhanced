@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # name: laichong_points
+# cron: 43 10 * * *
 """莱充积分任务，YYB 多账号版。
 
 根据 HAR 使用 AppID wxa68db1dabe823e7e。

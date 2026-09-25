@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # name: test_yyb_account_guard
+# cron: 24 14 * * *
 
 import os
 import sys

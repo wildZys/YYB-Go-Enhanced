@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # name: asdcb_auto_sign
+# cron: 30 8 * * *
 """
 阿水大杯茶签到。
 

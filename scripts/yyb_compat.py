@@ -1,4 +1,5 @@
 # name: yyb_compat
+# cron: 2 6 * * *
 """Shared YYB_SERVER adapter for standalone Python business scripts.
 
 The adapter only supplies wx.login code (and, when explicitly requested, the
