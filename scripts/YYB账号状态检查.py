@@ -39,7 +39,7 @@ def parse_server_lines() -> list[tuple[str, str]]:
 
 def check_health(server: str) -> None:
     """/accounts 受 YYB 登录保护，公共任务只做健康探测。"""
-    response = requests.get(server + "/healthz", timeout=15)
+    response = requests.get(server + "/health", timeout=15)
     response.raise_for_status()
 
 
